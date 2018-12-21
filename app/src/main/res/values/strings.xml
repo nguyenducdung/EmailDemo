@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EmailDemo</string>
+    <string name="send_email">Send Email</string>
+    <string name="dinh_kem_anh">Đính kèm ảnh</string>
+    <string name="dinh_kem_file">Đính kèm file</string>
+    <string name="none">None</string>
+    <string name="title_activity_send">SendActivity</string>
+    <string name="email_address">Email Address</string>
+    <string name="send">Send</string>
+</resources>
